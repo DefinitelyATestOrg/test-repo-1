@@ -1,0 +1,13 @@
+{
+  "name": "test-repo-1-node",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Dev <dev@example.org>",
+  "types": "dist/index.d.ts",
+  "main": "dist/index.js",
+  "type": "commonjs",
+  "private": false,
+  "exports": {},
+  "scripts": {},
+  "dependencies": {}
+}
