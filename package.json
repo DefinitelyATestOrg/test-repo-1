@@ -1,6 +1,6 @@
 {
   "name": "test-repo-1-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "author": "Dev <dev@example.org>",
   "types": "dist/index.d.ts",
