@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.0.3 (2023-09-18)
+
+Full Changelog: [v0.0.2...v0.0.3](https://github.com/DefinitelyATestOrg/test-repo-1/compare/v0.0.2...v0.0.3)
+
+### Features
+
+* add file release 3 commit 1 ([3d8a480](https://github.com/DefinitelyATestOrg/test-repo-1/commit/3d8a48096f928ca93eb7aaecda5c7a36ffb249a3))
+* add file release 3 commit 10 ([128c2d6](https://github.com/DefinitelyATestOrg/test-repo-1/commit/128c2d62527ae6528034ca37488a7d672f54e41a))
+* add file release 3 commit 2 ([96d8588](https://github.com/DefinitelyATestOrg/test-repo-1/commit/96d8588cd3c26320664d551e0ea635455fdfa005))
+* add file release 3 commit 3 ([521d4e8](https://github.com/DefinitelyATestOrg/test-repo-1/commit/521d4e860dc6bb4c2d4b9de711e9a2ddc8a7ead7))
+* add file release 3 commit 4 ([79f3844](https://github.com/DefinitelyATestOrg/test-repo-1/commit/79f38447cc09b53044f740f61f777e315fa3c57b))
+* add file release 3 commit 5 ([da097c8](https://github.com/DefinitelyATestOrg/test-repo-1/commit/da097c8a8af2ba8735b3ca6e10a9ed1795738b74))
+* add file release 3 commit 6 ([da7bf97](https://github.com/DefinitelyATestOrg/test-repo-1/commit/da7bf9727a64f2c268ea3aa1c0c423c34a34120e))
+* add file release 3 commit 7 ([67fe31f](https://github.com/DefinitelyATestOrg/test-repo-1/commit/67fe31feda742e318747849fcdd273d6ebd2ece9))
+* add file release 3 commit 8 ([bad039e](https://github.com/DefinitelyATestOrg/test-repo-1/commit/bad039e8ad556848448ab183c3d9b1d6d29a8d49))
+* add file release 3 commit 9 ([4be135d](https://github.com/DefinitelyATestOrg/test-repo-1/commit/4be135d952cb65c7c25720e92f99a7a630607c77))
+
 ## 0.0.2 (2023-09-18)
 
 Full Changelog: [v0.0.1...v0.0.2](https://github.com/DefinitelyATestOrg/test-repo-1/compare/v0.0.1...v0.0.2)
